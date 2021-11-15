@@ -28,7 +28,7 @@ state = {
             superheroId: 3,
             name: 'Spiderman',
             primaryAbility: 'Spider senses',
-            secondarAbility: 'Shoots web'
+            secondaryAbility: 'Shoots web'
         }
     ]
 }
